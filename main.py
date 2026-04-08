@@ -79,6 +79,8 @@ def answer(x):
 
 
 print('Чтобы выйти нажмите 1')
+
+
 while 1:
     question = input("Введите интересующий вопрос: ")
     if question != "1":

@@ -1,0 +1,19 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Служебные папки IDE
+.idea/
+.vscode/
+*.iml
+
+# Файлы окружения с секретами
+.env
